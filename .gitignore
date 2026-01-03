@@ -4,5 +4,3 @@ logs/
 .env
 venv/
 .DS_Store
-# Optional: exclude data if we don't want datasets in the repo
-# data/
